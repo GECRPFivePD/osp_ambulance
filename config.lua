@@ -1,5 +1,5 @@
 Config = {}
-
+--test
 -- DAMAGE SYSTEM
 Config.Framework = 'qb' -- Set this to your framework. 'qb' or 'esx'
 Config.b2060 = true -- Set this to true if you are using server version 2060 or above, otherwise set it to false
