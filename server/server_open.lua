@@ -667,6 +667,9 @@ CreateUseableItem('ifak', function(source, item)
     AddItem(source, 'bandage', 1)
     AddItem(source, 'painkillers', 1)
     AddItem(source, 'temporary_tourniquet', 1)
+    AddItem(source, 'quick_clot', 1)
+    AddItem(source, 'packing_bandage', 1)
+    AddItem(source, 'sewing_kit', 1)
 end)
 
 
